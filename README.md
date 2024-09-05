@@ -1,2 +1,2 @@
 # **Link-tree-study**
-## All LB in one place
+### All LB in one place
